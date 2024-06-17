@@ -14,5 +14,5 @@
 <a href="https://www.youtube.com/@shan_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilshuklayt" height="30" width="40" /></a>
 </p>
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=nikhil-shuklaa&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shantanusingh2k19/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=shantanu-singh&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shantanusingh2k19/)
 <hr>
