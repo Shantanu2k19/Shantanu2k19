@@ -1,13 +1,37 @@
+![Hello world](./docs/giff.gif)
+
 <div align="center">
    <h1>Hello there, I'm <span style="color: red;">Shantanu</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
 
+
+
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+
+
 <p align='center'>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shantanusingh2k19/"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
+
+&nbsp;&nbsp;
+ 
+<a href="https://instagram.com/shantanu.eth_"><img height="30" src="https://skillicons.dev/icons?i=instagram"></a>&nbsp;&nbsp;
+
+
+<a href="https://dev.to/hemant"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
+
+
+<a href="https://lichess.org/@/zodiac2000"><img height="30" src="docs/lichess.png"></a>&nbsp;&nbsp;
+
+
+ <a href="https://www.coffee.com/hemant"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
  </p>
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shantanu.eth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_shuklaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shan_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilshuklayt" height="30" width="40" /></a>
+</p>
   
 <h3 align="center">I love to build stuff with code and electronics</h3>
 
@@ -25,8 +49,6 @@
 
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
 
  
 ### - Languages and Tools...
@@ -95,11 +117,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shantanu.eth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_shuklaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@shan_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilshuklayt" height="30" width="40" /></a>
-</p>
+
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=shantanu-singh&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shantanusingh2k19/)
 <hr>
