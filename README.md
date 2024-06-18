@@ -10,6 +10,15 @@
 | ------------- | ------------- |
 
 
+<a href="https://www.youtube.com/c/shan_singh"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+
+<a href="https://www.youtube.com/channel/UCtIXdhDh4VWzawni4pd-lKQ">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtIXdhDh4VWzawni4pd-lKQ&key=AIzaSyDaRFUC14Cq7fjHKVdv-T0HfmrbQ4uiLqM"/>
+</a>
+
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtIXdhDh4VWzawni4pd-lKQ&key=AIzaSyDaRFUC14Cq7fjHKVdv-T0HfmrbQ4uiLqM"/>
+</a>
 
 #### Top Repositories
 
