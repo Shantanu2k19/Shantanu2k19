@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 
-[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shantanu2k19)](https://github.com/Shantanu2k19/github-readme-stats)
+[![Shantanu's GitHub stats](https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19)](https://github.com/Shantanu2k19/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
