@@ -6,7 +6,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 
-[![Shantanu's GitHub stats](https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19)](https://github.com/Shantanu2k19/github-readme-stats)
+| <img align="center" src="https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shantanu's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu2k19&layout=compact&&size_weight=0&count_weight=1&theme=buefy&hide_border=true" />
+| ------------- | ------------- |
 
 
 <h3 align="left">Languages and Tools:</h3>
