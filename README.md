@@ -1,4 +1,14 @@
-<h1 align="center">Hey 👋, I'm Shantanu</h1>
+<div align="center">
+   <h1>Hello there, I'm <span style="color: red;">Shantanu</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ </p>
+  
 <h3 align="center">I love to build stuff with code and electronics</h3>
 
 ![](https://komarev.com/ghpvc/?Shantanu2k19)
@@ -10,15 +20,34 @@
 | ------------- | ------------- |
 
 
+
 <a href="https://www.youtube.com/c/shan_singh"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 
-<a href="https://www.youtube.com/channel/UCtIXdhDh4VWzawni4pd-lKQ">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtIXdhDh4VWzawni4pd-lKQ&key=AIzaSyDaRFUC14Cq7fjHKVdv-T0HfmrbQ4uiLqM"/>
-</a>
 
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtIXdhDh4VWzawni4pd-lKQ&key=AIzaSyDaRFUC14Cq7fjHKVdv-T0HfmrbQ4uiLqM"/>
-</a>
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+
+ 
+### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
 #### Top Repositories
 
