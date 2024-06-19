@@ -20,7 +20,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 
-| <img align="center" src="https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shantanu's github stats" /> | <img align="center" src="https://shantanus-readme-stats.vercel.app/api/top-langs/?username=Shantanu2k19&layout=compact&&size_weight=0&count_weight=1&theme=buefy&hide_border=true" />
+| <img align="center" src="https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Shantanu's github stats" /> | <img align="center" src="https://shantanus-readme-stats.vercel.app/api/top-langs/?username=Shantanu2k19&layout=compact&&size_weight=0&count_weight=1&theme=buefy&hide_border=true" />
 | ------------- | ------------- |
 
 <br />
