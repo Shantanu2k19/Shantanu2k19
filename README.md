@@ -4,7 +4,7 @@
 
 
 <div align="center">
-   <h1>Hello there, I'm <span style="color: red;">Shantanu</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
+   <h1>Hello there, I'm <span style="color: rgb(121, 87, 213);">Shantanu</span> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
 
 
 
