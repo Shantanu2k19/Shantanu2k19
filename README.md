@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./docs/giff.gif" alt="Hello world" style="width: 100%; display: block; margin: 0 auto;">
+   <img src="./docs/giff.gif" alt="Hello world">
 </div>
 
 
@@ -29,42 +29,42 @@
 ### Languages and Tools...
 
 <p align="center">
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px" src="https://skillicons.dev/icons?i=c" alt="html">  
+  <img height="45"  src="https://skillicons.dev/icons?i=c" alt="html">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=cpp" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=cpp" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=py" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=py" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=js" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=js" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=react" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=react" alt="html" style="vertical-align:top; margin:4px">  
 
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=nextjs" alt="html" style="vertical-align:top; margin:4px"> 
+  <img height="45"  src="https://skillicons.dev/icons?i=nextjs" alt="html" style="vertical-align:top; margin:4px"> 
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=html" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=html" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=django" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=django" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=aws" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=aws" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=arduino" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=arduino" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=raspberrypi" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=raspberrypi" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=mongodb" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=mongodb" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=mysql" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=mysql" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=git" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=git" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45" style="box-shadow: 5px 5px 5px #888888; border-radius: 8px; vertical-align:top; margin:6px; padding:3px"  src="https://skillicons.dev/icons?i=github" alt="html" style="vertical-align:top; margin:4px"> 
+  <img height="45"  src="https://skillicons.dev/icons?i=github" alt="html" style="vertical-align:top; margin:4px"> 
 
 
   
 </p>
 
-#### Top Repositories
+#### My Best Repositories
 
 
 <a href="https://github.com/Shantanu2k19/MyMedic">
