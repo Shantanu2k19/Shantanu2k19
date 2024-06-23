@@ -29,36 +29,36 @@
 ### Languages and Tools...
 
 <p align="center">
-  <img height="45"  src="https://skillicons.dev/icons?i=c" alt="html">  
+  <img height="45"  src="https://skillicons.dev/icons?i=c" alt="c">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=cpp" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=cpp" alt="c++" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=py" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=py" alt="python" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=js" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=js" alt="javascript" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=react" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=react" alt="react" style="vertical-align:top; margin:4px">  
 
 
-  <img height="45"  src="https://skillicons.dev/icons?i=nextjs" alt="html" style="vertical-align:top; margin:4px"> 
+  <img height="45"  src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" style="vertical-align:top; margin:4px"> 
 
   <img height="45"  src="https://skillicons.dev/icons?i=html" alt="html" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=django" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=django" alt="django" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=aws" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=aws" alt="aws" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=arduino" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=arduino" alt="arduino" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=raspberrypi" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=mongodb" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=mysql" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=mysql" alt="mysql" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=git" alt="html" style="vertical-align:top; margin:4px">  
+  <img height="45"  src="https://skillicons.dev/icons?i=git" alt="git" style="vertical-align:top; margin:4px">  
 
-  <img height="45"  src="https://skillicons.dev/icons?i=github" alt="html" style="vertical-align:top; margin:4px"> 
+  <img height="45"  src="https://skillicons.dev/icons?i=github" alt="github" style="vertical-align:top; margin:4px"> 
 
 
   
