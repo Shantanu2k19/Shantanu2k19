@@ -69,7 +69,7 @@
 
 <a href="https://github.com/Shantanu2k19/MyMedic">
   <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=MyMedic&theme=buefy" />
-</a>
+</a>  
 <a href="https://github.com/Shantanu2k19/meTube">
   <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=meTube&theme=buefy" />
 </a>
@@ -79,7 +79,7 @@
 
 <a href="https://github.com/Shantanu2k19/threads">
   <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=threads&theme=buefy" />
-</a>
+</a>  
 <a href="https://github.com/Shantanu2k19/chat_gpt_project">
   <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=chat_gpt_project&theme=buefy" />
 </a>
