@@ -20,7 +20,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 
-| <img align="center" src="https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Shantanu's github stats" /> | <img align="center" src="https://shantanus-readme-stats.vercel.app/api/top-langs/?username=Shantanu2k19&layout=compact&&size_weight=0&count_weight=1&theme=buefy&hide_border=true" />
+| <img align="center" src="https://shantanus-readme-stats.vercel.app/api?username=Shantanu2k19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Shantanu's github stats" /> | <img align="center" src="https://shantanus-readme-stats.vercel.app/api/top-langs/?username=Shantanu2k19&layout=compact&&size_weight=0&count_weight=1&theme=buefy&hide_border=true&cache_seconds=86400" />
 | ------------- | ------------- |
 
 <br />
@@ -70,20 +70,20 @@
 
 
 <a href="https://github.com/Shantanu2k19/MyMedic">
-  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=MyMedic&theme=buefy" />
+  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=MyMedic&theme=buefy&cache_seconds=86400" />
 </a>  
 <a href="https://github.com/Shantanu2k19/meTube">
-  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=meTube&theme=buefy" />
+  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=meTube&theme=buefy&cache_seconds=86400" />
 </a>
 
 <br/> 
 <br/> 
 
 <a href="https://github.com/Shantanu2k19/threads">
-  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=threads&theme=buefy" />
+  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=threads&theme=buefy&cache_seconds=86400" />
 </a>  
 <a href="https://github.com/Shantanu2k19/chat_gpt_project">
-  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=chat_gpt_project&theme=buefy" />
+  <img align="center" src="https://shantanus-readme-stats.vercel.app/api/pin/?username=Shantanu2k19&repo=chat_gpt_project&theme=buefy&cache_seconds=86400" />
 </a>
 <br />
 <br />
