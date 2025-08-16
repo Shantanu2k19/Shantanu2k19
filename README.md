@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
    <img src="./docs/codeGif.gif" alt="Hello world">
 </div>
 
