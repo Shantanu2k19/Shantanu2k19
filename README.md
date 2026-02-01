@@ -13,7 +13,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/shantanusingh2k19/"><img height="38" src="docs/linkedin2.svg" style="vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/shantanu.eth_"><img height="35" src="docs/instagram.svg" style="vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.shantanu2k19.com/"><img height="38" src="docs/favicon.ico" alt="Portfolio" style="border-radius: 8px; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.shantanu2k19.com/"><img height="38" src="docs/portfolio.png" alt="Portfolio" style="border-radius: 8px; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://lichess.org/@/zodiac2000"><img height="35" src="docs/lichess.svg" style="vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@shan_singh"><img height="40" src="docs/youtube.svg" style="vertical-align: middle;"></a>
  </p>
